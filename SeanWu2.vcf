@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sean F. Wu
+N:Wu;Sean;F.;;
+EMAIL;TYPE=INTERNET:sean.wu@signal-wise.com
+TEL:(248) 561-5064
+ADR:;Suite 218;888 W Big Beaver Rd;Troy;MI;48084;US;888 W Big Beaver Rd\nSu
+ ite 218\, Troy\, MI 48084\nUS
+ORG:Signal-wise
+TITLE:Founder & CTO
+CATEGORIES:myContacts
+END:VCARD
